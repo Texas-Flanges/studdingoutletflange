@@ -496,6 +496,86 @@ export default function Home() {
         </ul>
       </section>
 
+      {/* Studding Outlets Info Section */}
+      <section
+        className="rv"
+        style={{
+          padding: "64px 24px",
+        }}
+      >
+        <div style={{ maxWidth: "900px", margin: "0 auto" }}>
+          <h3
+            style={{
+              fontSize: "22px",
+              fontWeight: "bold",
+              color: "#1a3a5c",
+              marginBottom: "8px",
+            }}
+          >
+            What Are Studding Outlets?
+          </h3>
+          <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333", marginBottom: "24px" }}>
+            Studding outlets (you might also hear them called pad flanges) are a practical steel component used to add a connection point to the outside of a pressure vessel or storage tank. The flat bottom of the flange gets welded directly onto the vessel wall, and the top face is pre-drilled and threaded so you can bolt on flanges, pipe assemblies, valves, gauges, or other equipment. It&apos;s essentially a purpose-built attachment point, without having to cut a full nozzle into the vessel.
+          </p>
+
+          <h3
+            style={{
+              fontSize: "22px",
+              fontWeight: "bold",
+              color: "#1a3a5c",
+              marginBottom: "8px",
+            }}
+          >
+            Do They Come in Different Sizes?
+          </h3>
+          <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333", marginBottom: "24px" }}>
+            Texas Flange offers studding outlets in with quick turns for smaller sizes, and in pressure classes from 150# to 2500#, so there&apos;s a good chance we have something that fits your application. The facing/contact surface where the flange bolts up will have a small raised ring, with the height of that ring depending on the pressure class.
+          </p>
+
+          <h3
+            style={{
+              fontSize: "22px",
+              fontWeight: "bold",
+              color: "#1a3a5c",
+              marginBottom: "8px",
+            }}
+          >
+            What If My Vessel Has a Curved Surface?
+          </h3>
+          <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333", marginBottom: "24px" }}>
+            Most studding outlets ship with a flat bottom, which works fine for flat surfaces. But if your vessel has a curved shell or dished head, the back of the flange can be machined to match that curve so it sits flush instead of rocking on the surface. We can match your shell or head mount configuration.
+          </p>
+
+          <h3
+            style={{
+              fontSize: "22px",
+              fontWeight: "bold",
+              color: "#1a3a5c",
+              marginBottom: "8px",
+            }}
+          >
+            What Are They Made Of?
+          </h3>
+          <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333", marginBottom: "24px" }}>
+            Carbon steel is the most common material, but if your application involves corrosive fluids or extreme temperatures, Texas Flange can also supply studding outlets in stainless steel and a variety of alloy grades.
+          </p>
+
+          <h3
+            style={{
+              fontSize: "22px",
+              fontWeight: "bold",
+              color: "#1a3a5c",
+              marginBottom: "8px",
+            }}
+          >
+            A Note on Thickness
+          </h3>
+          <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333", marginBottom: "0" }}>
+            The standard thickness generally meets minimum code requirements, but the right thickness for your specific situation depends on your operating conditions. It&apos;s always worth a conversation with our team before you order.
+          </p>
+        </div>
+      </section>
+
       {/* FAQ Section */}
       <section
         id="faq"
