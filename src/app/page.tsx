@@ -285,7 +285,7 @@ export default function Home() {
             Learn More
           </a>
           <a
-            href="https://texasflange.com?ref=studdingoutletflange"
+            href="https://texasflange.com/studding-outlet-for-flanges/?ref=studdingoutletflange"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -708,7 +708,7 @@ export default function Home() {
         <p style={{ fontSize: "17px", lineHeight: 1.8, color: "#333" }}>
           For more information regarding Studding Outlet Flanges visit{" "}
           <a
-            href="https://texasflange.com?ref=studdingoutletflange"
+            href="https://texasflange.com/studding-outlet-for-flanges/?ref=studdingoutletflange"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#1a3a5c", fontWeight: "600" }}
@@ -752,7 +752,7 @@ export default function Home() {
             Call 281-484-8325
           </a>
           <a
-            href="https://texasflange.com?ref=studdingoutletflange"
+            href="https://texasflange.com/studding-outlet-for-flanges/?ref=studdingoutletflange"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -934,7 +934,7 @@ export default function Home() {
               Related
             </h3>
             <a
-              href="https://texasflange.com?ref=studdingoutletflange"
+              href="https://texasflange.com/studding-outlet-for-flanges/?ref=studdingoutletflange"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "#cccccc", textDecoration: "none", fontSize: "14px" }}
